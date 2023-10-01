@@ -81,6 +81,7 @@ a {
     color: rgb(0, 136, 255);
     display: flex;
     gap : 5px;
+    font-size: larger;
 }
 ul {
     line-height: 30px;
